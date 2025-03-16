@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Bai Jamjuree;
+  padding-top: 110px;
+}
+.container-one h1, .container-two h2,
+.container-four h2, .container-five h2,
+.container-seven h2{
+  color: hsl(210, 10%, 33%);
+  font-weight: 600;
+  text-align: center;
+}
+.all-container h3,
+.container-six h4{
+  margin: 0px 0px;
+  font-size: 15px;
+  font-weight: 600;
+  color: hsl(210, 10%, 33%);
+}
+.container-six p{
+  text-align: center;
+  font-size: 14px;
+  width: 290px;
+  color: hsl(201, 11%, 66%);
+}
